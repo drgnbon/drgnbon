@@ -67,4 +67,4 @@
 <p align="left">
   ![Snake animation](https://github.com/drgnbon/drgnbon/blob/output/github-contribution-grid-snake.svg)
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drgnbon&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drgnbon)](https://github.com/anuraghazra/github-readme-stats)
