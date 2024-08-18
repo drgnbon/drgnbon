@@ -34,8 +34,15 @@
 </h2>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=drgnbon&theme=dark_dimmed" alt="drgnbon's GitHub trophies" />
+  <img src="https://github-readme-trophies.vercel.app/?username=drgnbon&theme=darkhub" alt="drgnbon's GitHub trophies" />
 </p>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/trophy?username=drgnbon&theme=dark" alt="drgnbon's GitHub trophies" />
+</p>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drgnbon&theme=dracula" alt="drgnbon's GitHub achievements" />
+</p>
+
 
 <table>
   <tr>
