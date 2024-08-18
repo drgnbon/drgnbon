@@ -24,19 +24,13 @@
   <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/python.png" alt="Python" width="40px" style="margin-right: 10px;"/>
 </p>
 
+<p>
+  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/html.png" alt="HTML" width="40px" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/css.png" alt="CSS" width="40px" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/js.png" alt="JavaScript" width="40px" style="margin-right: 10px;"/>
+</p>
 
-<!-- ![C++](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/cpp.png)
-![Rust](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/rust.png)
-![C#](hhttps://raw.githubusercontent.com/drgnbon/drgnbon/main/src/csharp.png)
-![Python](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/python.png)
-
-<!-- </br>
-
-![HTML](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/html.png)
-![CSS](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/css.png)
-![JS](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/js.png)
-
-</br>
-
-![Git](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/git.png)
-![GitHub](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/github.png) --> -->
+<p>
+  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/git.png" alt="Git" width="40px" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/github.png" alt="GitHub" width="40px" style="margin-right: 10px;"/>
+</p>
