@@ -10,7 +10,7 @@ Hi there, I'm drgnbon 👋
 
 <a href="https://t.me/drgnbon"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/telegram.png" alt="drgnbon | Telegram" width="40px"/></a>
 
-<!-- <a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="drgnbon | Instagram" width="21px"/></a> -->
+<a href="https://discord.com/users/660767046908510218"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/discord.png" alt="drgnbon | Discord" width="40px"/></a>
 
 <!-- - 💬 Contact me from [Telegram](https://t.me/drgnbon)!
 
