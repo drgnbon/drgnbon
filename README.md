@@ -1,25 +1,29 @@
 <h1 align="center">
-Hi there, I'm drgnbon 👋
+  Hi there, I'm drgnbon 👋
 </h1>
 
 <h2 align="left">
-- 💼 Freelancer, Backend, Frontend
+  💼 Freelancer | Backend & Frontend Developer
 </h2>
 
 ### 🤝 Connect with me:
 
-<a href="https://t.me/drgnbon"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/telegram.png" alt="drgnbon | Telegram" width="40px"/></a>
+<a href="https://t.me/drgnbon"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/telegram.png" alt="drgnbon | Telegram" width="40px" style="margin-right: 10px;" /></a>
+<a href="https://discord.com/users/660767046908510218"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/discord.png" alt="drgnbon | Discord" width="40px" style="margin-right: 10px;" /></a>
 
-<a href="https://discord.com/users/660767046908510218"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/discord.png" alt="drgnbon | Discord" width="40px"/></a>
+<br clear="left" />
 
 <h2 align="left">
-- 💼 Technical Skills
+  💻 Technical Skills
 </h2>
 
-<a><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/cpp.png" alt="C++" width="40px"/></a>
-<a><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/rust.png" alt="Rust" width="40px"/></a>
-<a><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/csharp.png" alt="C#" width="40px"/></a>
-<a><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/python.png" alt="Python" width="40px"/></a>
+<p>
+  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/cpp.png" alt="C++" width="40px" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/rust.png" alt="Rust" width="40px" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/csharp.png" alt="C#" width="40px" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/python.png" alt="Python" width="40px" style="margin-right: 10px;"/>
+</p>
+
 
 <!-- ![C++](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/cpp.png)
 ![Rust](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/rust.png)
