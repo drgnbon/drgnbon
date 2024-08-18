@@ -4,7 +4,7 @@ Hi there, I'm drgnbon 👋
 
 <h2 align="left">
 - 💼 Freelancer, Backend, Frontend
-</21>
+</h2>
 
 ### 🤝 Connect with me:
 
@@ -18,6 +18,7 @@ Hi there, I'm drgnbon 👋
 <a><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/rust.png" alt="Rust" width="40px"/></a>
 <a><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/csharp.png" alt="C#" width="40px"/></a>
 <a><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/python.png" alt="Python" width="40px"/></a>
+
 <!-- ![C++](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/cpp.png)
 ![Rust](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/rust.png)
 ![C#](hhttps://raw.githubusercontent.com/drgnbon/drgnbon/main/src/csharp.png)
