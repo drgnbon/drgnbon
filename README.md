@@ -34,7 +34,7 @@
 </h2>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=drgnbon&theme=radical" alt="drgnbon's GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=drgnbon&theme=darkhub" alt="drgnbon's GitHub trophies" />
 </p>
 
 <table>
@@ -67,7 +67,6 @@
 <p align="left">
   ![Snake animation](https://github.com/drgnbon/drgnbon/blob/output/github-contribution-grid-snake.svg)
 </p> -->
-
 
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=drgnbon&theme=dark)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drgnbon&theme=dark)
