@@ -31,6 +31,18 @@
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/github.png" alt="GitHub" width="40px" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/git.png" alt="Git" width="40px" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/github.png" alt="GitHub" width="40px" style="margin-right: 10px;"/>
+</p>
+
+<h2 align="left">
+  📊 GitHub Stats
+</h2>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=drgnbon&show_icons=true&theme=radical" alt="drgnbon's GitHub stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drgnbon&theme=radical" alt="drgnbon's GitHub streak" />
 </p>
