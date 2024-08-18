@@ -14,6 +14,10 @@ Hi there, I'm drgnbon 👋
 
 ## 💼 Technical Skills
 
+<img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/cpp.png" alt="C++" width="40px"/>
+<img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/rust.png" alt="Rust" width="40px"/>
+<img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/csharp.png" alt="C#" width="40px"/>
+<img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/python.png" alt="Python" width="40px"/>
 ![C++](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/cpp.png)
 ![Rust](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/rust.png)
 ![C#](hhttps://raw.githubusercontent.com/drgnbon/drgnbon/main/src/csharp.png)
