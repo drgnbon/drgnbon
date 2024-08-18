@@ -32,6 +32,7 @@
 <h2 align="left">
   📊 GitHub Stats
 </h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drgnbon)](https://github.com/drgnbon/github-readme-stats)
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=drgnbon&theme=radical" alt="drgnbon's GitHub trophies" />
@@ -67,4 +68,3 @@
 <p align="left">
   ![Snake animation](https://github.com/drgnbon/drgnbon/blob/output/github-contribution-grid-snake.svg)
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drgnbon)](https://github.com/drgnbon/github-readme-stats)
