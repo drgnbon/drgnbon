@@ -54,18 +54,6 @@
   </tr>
 </table>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=drgnbon.profile&left_color=green&right_color=blue)
-
-<!-- <p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote" />
-</p>
-
 <p align="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=drgnbon&theme=radical" alt="drgnbon's GitHub activity graph" />
+  <img src="https://github.com/drgnbon/drgnbon/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
-
-
-<p align="left">
-  ![Snake animation](https://github.com/drgnbon/drgnbon/blob/output/github-contribution-grid-snake.svg)
-</p> -->

@@ -1,0 +1,27 @@
+name: Snake
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' 
+  workflow_dispatch: 
+
+jobs:
+  update-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: drgnbon
+          output: dist/github-contribution-grid-snake.svg
+          
+      - name: Commit Snake animation
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'dist/github-contribution-grid-snake.svg'
+          message: 'Update Snake animation'
+          author_name: 'GitHub Actions'
+          author_email: 'actions@github.com'
