@@ -12,8 +12,9 @@ on:
   push:
     branches:
     - master
-    
-  
+
+permissions:
+  contents: write  # Ensure GITHUB_TOKEN has write permissions
 
 jobs:
   generate:
