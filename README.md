@@ -12,7 +12,7 @@ Hi there, I'm drgnbon 👋
 
 <a href="https://discord.com/users/660767046908510218"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/discord.png" alt="drgnbon | Discord" width="40px"/></a>
 
-## 💼 Technical Skills
+### 💼 Technical Skills
 
 <img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/cpp.png" alt="C++" width="40px"/>
 <img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/rust.png" alt="Rust" width="40px"/>
