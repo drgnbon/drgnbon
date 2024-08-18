@@ -12,6 +12,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Create dist directory
+        run: mkdir -p dist
+
       - name: Generate Snake animation
         uses: Platane/snk@v3
         with:
@@ -22,6 +25,9 @@ jobs:
             dist/github-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: List generated files
+        run: ls -al dist
 
       - name: Commit Snake animation
         uses: EndBug/add-and-commit@v9
