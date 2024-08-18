@@ -59,18 +59,6 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drgnbon&layout=compact&theme=radical" alt="drgnbon's most used languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=drgnbon&show_icons=true&theme=radical" alt="drgnbon's GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drgnbon&theme=radical" alt="drgnbon's GitHub streak" />
-</p>
-
-<p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote" />
 </p>
 
