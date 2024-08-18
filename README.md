@@ -6,7 +6,9 @@
   💼 Freelancer | Backend & Frontend Developer
 </h2>
 
-### 🤝 Connect with me:
+<h2 align="left">
+  🤝 Connect with me:
+</h2>
 
 <a href="https://t.me/drgnbon"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/telegram.png" alt="drgnbon | Telegram" width="40px" style="margin-right: 10px;" /></a>
 <a href="https://discord.com/users/660767046908510218"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/discord.png" alt="drgnbon | Discord" width="40px" style="margin-right: 10px;" /></a>
