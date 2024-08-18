@@ -41,12 +41,12 @@
   <tr>
     <td>
       <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drgnbon&layout=compact&theme=radical" alt="drgnbon's most used languages" width="355" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drgnbon&layout=compact&theme=dark" alt="drgnbon's most used languages" width="355" />
       </p>
     </td>
     <td>
       <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=drgnbon&show_icons=true&theme=radical" alt="drgnbon's GitHub stats" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=drgnbon&show_icons=true&theme=dark" alt="drgnbon's GitHub stats" width="400" />
       </p>
     </td>
   </tr>
@@ -68,6 +68,6 @@
   ![Snake animation](https://github.com/drgnbon/drgnbon/blob/output/github-contribution-grid-snake.svg)
 </p> -->
 
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drgnbon&layout=compact&theme=dark)](https://github.com/anmol098/waka-readme-stats)
+
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=drgnbon&theme=dark)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drgnbon&theme=dark)
