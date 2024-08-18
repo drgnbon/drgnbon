@@ -7,7 +7,7 @@
 </h2>
 
 <h2 align="left">
-  🤝 Connect with me:
+  🤝 Connect with me
 </h2>
 
 <a href="https://t.me/drgnbon"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/telegram.png" alt="drgnbon | Telegram" width="40px" style="margin-right: 10px;" /></a>
@@ -54,6 +54,10 @@
   </tr>
 </table>
 
+<p align="left">
+  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=drgnbon.drgnbon)
+</p>
+
 <!-- <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote" />
 </p>
@@ -62,9 +66,7 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=drgnbon&theme=radical" alt="drgnbon's GitHub activity graph" />
 </p>
 
-<p align="left">
-  ![Visitor Count](https://komarev.com/ghpvc/?username=drgnbon&color=brightgreen)
-</p>
+
 
 <p align="left">
   ![Snake animation](https://github.com/drgnbon/drgnbon/blob/output/github-contribution-grid-snake.svg)
