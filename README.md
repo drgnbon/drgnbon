@@ -1,6 +1,6 @@
-<h3 align="center">
+<h1 align="center">
 Hi there, I'm drgnbon 👋
-</h3>
+</h1>
 
 <!-- <h2 align="center">
 I'm a 💼 Freelancer!
