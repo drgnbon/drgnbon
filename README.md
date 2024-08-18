@@ -2,7 +2,9 @@
 Hi there, I'm drgnbon 👋
 </h1>
 
+<h2 align="center">
 - 💼 Freelancer, Backend, Frontend
+</21>
 
 <!-- - 💬 Contact me from [Telegram](https://t.me/drgnbon)!
 
