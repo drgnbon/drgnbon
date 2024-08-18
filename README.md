@@ -31,6 +31,6 @@
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/git.png" alt="Git" width="40px" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/github.png" alt="GitHub" width="40px" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/git.png" alt="Git" width="40px" style="margin-right: 10px;"/>
 </p>
