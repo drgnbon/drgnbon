@@ -69,3 +69,5 @@
 </p> -->
 
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drgnbon&layout=compact&theme=dark)](https://github.com/anmol098/waka-readme-stats)
+![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=drgnbon&theme=dark)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drgnbon&theme=dark)
