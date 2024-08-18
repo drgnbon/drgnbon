@@ -6,9 +6,7 @@ Hi there, I'm drgnbon 👋
 - 💼 Freelancer, Backend, Frontend
 </21>
 
-<h2 align="left">
-- 🤝 Connect with me:
-</21>
+### 🤝 Connect with me:
 
 <a href="https://t.me/drgnbon"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/telegram.png" alt="drgnbon | Telegram" width="40px"/></a>
 
