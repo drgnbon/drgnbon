@@ -2,8 +2,8 @@ name: Snake
 
 on:
   schedule:
-    - cron: '*/30 * * * *' 
-  workflow_dispatch: 
+    - cron: '*/30 * * * *' # Запуск каждые 30 минут
+  workflow_dispatch: # Позволяет запуск вручную
 
 jobs:
   update-snake:
