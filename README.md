@@ -8,7 +8,7 @@ Hi there, I'm drgnbon 👋
 
 ### 🤝 Connect with me:
 
-<a href="https://t.me/drgnbon"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/telegram.png" alt="drgnbon | Telegram" width="21px"/></a>
+<a href="https://t.me/drgnbon"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/telegram.png" alt="drgnbon | Telegram" width="40px"/></a>
 
 <!-- <a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="drgnbon | Instagram" width="21px"/></a> -->
 
