@@ -74,12 +74,12 @@
   <tr>
     <td>
       <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drgnbon&layout=compact&theme=radical" alt="drgnbon's most used languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drgnbon&layout=compact&theme=radical" alt="drgnbon's most used languages" width="400" />
       </p>
     </td>
     <td>
       <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=drgnbon&show_icons=true&theme=radical" alt="drgnbon's GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=drgnbon&show_icons=true&theme=radical" alt="drgnbon's GitHub stats" width="400" />
       </p>
     </td>
   </tr>
