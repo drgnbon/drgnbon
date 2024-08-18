@@ -54,6 +54,4 @@
   </tr>
 </table>
 
-<p align="left">
-  <img src="https://github.com/drgnbon/drgnbon/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+![GitHub Snake](https://raw.githubusercontent.com/drgnbon/drgnbon/output/dist/github-snake.svg)
