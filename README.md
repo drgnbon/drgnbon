@@ -36,7 +36,6 @@
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=drgnbon&theme=dark" alt="drgnbon's GitHub trophies" />
 </p>
-
 <table>
   <tr>
     <td>
