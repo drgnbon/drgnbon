@@ -1,6 +1,11 @@
+<h3 align="center">
 ### Hi there, I'm drgnbon 👋
+</h3>
 
-- 💼 Freelancer
+<h2 align="center">
+I'm a 💼 Freelancer!
+</h2>
+
 - 💬 Contact me from [Telegram](https://t.me/drgnbon)!
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
