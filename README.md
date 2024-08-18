@@ -1,3 +1,5 @@
+![GitHub Snake](https://github.com/drgnbon/drgnbon/blob/output/github-snake-dark.svg)
+
 <h1 align="center">
   Hi there, I'm drgnbon 👋
 </h1>
@@ -53,5 +55,3 @@
     </td>
   </tr>
 </table>
-
-![GitHub Snake](https://github.com/drgnbon/drgnbon/blob/output/github-snake-dark.svg)
