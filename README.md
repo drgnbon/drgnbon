@@ -6,9 +6,7 @@
   💼 Freelancer | Backend & Frontend Developer
 </h2>
 
-<h2 align="left">
-  🤝 Connect with me:
-</h2>
+### 🤝 Connect with me:
 
 <a href="https://t.me/drgnbon"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/telegram.png" alt="drgnbon | Telegram" width="40px" style="margin-right: 10px;" /></a>
 <a href="https://discord.com/users/660767046908510218"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/discord.png" alt="drgnbon | Discord" width="40px" style="margin-right: 10px;" /></a>
@@ -47,4 +45,28 @@
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=drgnbon&theme=radical" alt="drgnbon's GitHub streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drgnbon&layout=compact&theme=radical" alt="drgnbon's most used languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=drgnbon&theme=radical" alt="drgnbon's GitHub trophies" />
+</p>
+
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote" />
+</p>
+
+<p align="left">
+  <img src="https://activity-graph.herokuapp.com/graph?username=drgnbon&theme=radical" alt="drgnbon's GitHub activity graph" />
+</p>
+
+<p align="left">
+  ![Visitor Count](https://komarev.com/ghpvc/?username=drgnbon&color=brightgreen)
+</p>
+
+<p align="left">
+  ![Snake animation](https://github.com/drgnbon/drgnbon/blob/output/github-contribution-grid-snake.svg)
 </p>
