@@ -18,12 +18,8 @@ Hi there, I'm drgnbon 👋
 <img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/rust.png" alt="Rust" width="40px"/>
 <img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/csharp.png" alt="C#" width="40px"/>
 <img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/python.png" alt="Python" width="40px"/>
-![C++](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/cpp.png)
-![Rust](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/rust.png)
-![C#](hhttps://raw.githubusercontent.com/drgnbon/drgnbon/main/src/csharp.png)
-![Python](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/python.png)
 
-</br>
+<!-- </br>
 
 ![HTML](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/html.png)
 ![CSS](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/css.png)
@@ -32,4 +28,4 @@ Hi there, I'm drgnbon 👋
 </br>
 
 ![Git](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/git.png)
-![GitHub](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/github.png)
+![GitHub](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/github.png) -->
