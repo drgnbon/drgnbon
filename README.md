@@ -9,32 +9,32 @@
 </h2>
 
 <h2 align="left">
-  🤝 Connect with me
+  🤝 Connect with me:
 </h2>
 
-<a href="https://t.me/drgnbon"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/telegram.png" alt="drgnbon | Telegram" width="40px" style="margin-right: 10px;" /></a>
-<a href="https://discord.com/users/660767046908510218"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/discord.png" alt="drgnbon | Discord" width="40px" style="margin-right: 10px;" /></a>
+<a href="https://t.me/drgnbon"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/telegram.png" alt="drgnbon | Telegram" width="50px" style="margin-right: 10px;" /></a>
+<a href="https://discord.com/users/660767046908510218"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/discord.png" alt="drgnbon | Discord" width="50px" style="margin-right: 10px;" /></a>
 
 <br clear="left" />
 
 <h2 align="left">
-  💻 Technical Skills
+  💻 Technical Skills:
 </h2>
 
 <p>
-  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/cpp.png" alt="C++" width="40px" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/rust.png" alt="Rust" width="40px" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/csharp.png" alt="C#" width="40px" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/python.png" alt="Python" width="40px" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/html.png" alt="HTML" width="40px" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/css.png" alt="CSS" width="40px" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/js.png" alt="JavaScript" width="40px" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/git.png" alt="Git" width="40px" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/github.png" alt="GitHub" width="40px" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/cpp.png" alt="C++" width="50px" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/rust.png" alt="Rust" width="50px" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/csharp.png" alt="C#" width="50px" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/python.png" alt="Python" width="50px" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/html.png" alt="HTML" width="50px" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/css.png" alt="CSS" width="50px" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/js.png" alt="JavaScript" width="50px" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/git.png" alt="Git" width="50px" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/github.png" alt="GitHub" width="50px" style="margin-right: 10px;"/>
 </p>
 
 <h2 align="left">
-  📊 GitHub Stats
+  📊 GitHub Stats:
 </h2>
 
 <p align="left">
