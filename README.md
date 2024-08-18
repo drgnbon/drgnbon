@@ -2,7 +2,7 @@
 Hi there, I'm drgnbon 👋
 </h1>
 
-<h2 align="center">
+<h2 align="left">
 - 💼 Freelancer, Backend, Frontend
 </21>
 
