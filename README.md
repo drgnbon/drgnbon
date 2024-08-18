@@ -56,5 +56,5 @@
   </tr>
 </table>
 <p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=darkhub" alt="Motivational Quote" />
 </p>
