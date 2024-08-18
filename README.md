@@ -6,6 +6,12 @@ Hi there, I'm drgnbon 👋
 - 💼 Freelancer, Backend, Frontend
 </21>
 
+### 🤝 Connect with me:
+
+<a href="https://t.me/drgnbon"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/telegram.png" alt="drgnbon | Telegram" width="21px"/></a>
+
+<!-- <a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="drgnbon | Instagram" width="21px"/></a> -->
+
 <!-- - 💬 Contact me from [Telegram](https://t.me/drgnbon)!
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
