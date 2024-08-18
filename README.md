@@ -52,7 +52,7 @@
   </tr>
 </table>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote" />
 </p>
 
@@ -66,5 +66,6 @@
 
 <p align="left">
   ![Snake animation](https://github.com/drgnbon/drgnbon/blob/output/github-contribution-grid-snake.svg)
-</p>
+</p> -->
+
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drgnbon&layout=compact&theme=dark)](https://github.com/anmol098/waka-readme-stats)
