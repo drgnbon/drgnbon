@@ -54,4 +54,4 @@
   </tr>
 </table>
 
-![GitHub Snake](https://raw.githubusercontent.com/drgnbon/drgnbon/output/dist/github-snake.svg)
+![GitHub Snake](https://github.com/drgnbon/drgnbon/blob/output/github-snake-dark.svg)
