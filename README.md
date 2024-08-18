@@ -39,6 +39,21 @@
   📊 GitHub Stats
 </h2>
 
+<table>
+  <tr>
+    <td>
+      <p align="left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drgnbon&layout=compact&theme=radical" alt="drgnbon's most used languages" width="360" />
+      </p>
+    </td>
+    <td>
+      <p align="left">
+        <img src="https://github-readme-stats.vercel.app/api?username=drgnbon&show_icons=true&theme=radical" alt="drgnbon's GitHub stats" width="400" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=drgnbon&theme=radical" alt="drgnbon's GitHub trophies" />
 </p>
@@ -70,17 +85,3 @@
 <p align="left">
   ![Snake animation](https://github.com/drgnbon/drgnbon/blob/output/github-contribution-grid-snake.svg)
 </p>
-<table>
-  <tr>
-    <td>
-      <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drgnbon&layout=compact&theme=radical" alt="drgnbon's most used languages" width="360" />
-      </p>
-    </td>
-    <td>
-      <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=drgnbon&show_icons=true&theme=radical" alt="drgnbon's GitHub stats" width="400" />
-      </p>
-    </td>
-  </tr>
-</table>
