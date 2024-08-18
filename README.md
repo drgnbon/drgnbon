@@ -39,6 +39,10 @@
   📊 GitHub Stats
 </h2>
 
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=drgnbon&theme=radical" alt="drgnbon's GitHub trophies" />
+</p>
+
 <table>
   <tr>
     <td>
@@ -53,10 +57,6 @@
     </td>
   </tr>
 </table>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=drgnbon&theme=radical" alt="drgnbon's GitHub trophies" />
-</p>
 
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote" />
