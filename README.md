@@ -1,10 +1,10 @@
 <h3 align="center">
-### Hi there, I'm drgnbon 👋
+Hi there, I'm drgnbon 👋
 </h3>
 
-<h2 align="center">
+<!-- <h2 align="center">
 I'm a 💼 Freelancer!
-</h2>
+</h2> -->
 
 - 💬 Contact me from [Telegram](https://t.me/drgnbon)!
 
