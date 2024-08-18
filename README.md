@@ -34,8 +34,9 @@
 </h2>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=drgnbon&theme=dark" alt="drgnbon's GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=drgnbon&theme=dark_dimmed" alt="drgnbon's GitHub trophies" />
 </p>
+
 <table>
   <tr>
     <td>
