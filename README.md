@@ -54,9 +54,7 @@
   </tr>
 </table>
 
-<p align="left">
-  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=drgnbon.drgnbon)
-</p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=drgnbon.profile&left_color=green&right_color=blue)
 
 <!-- <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote" />
