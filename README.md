@@ -1,8 +1,8 @@
-![GitHub Snake](https://github.com/drgnbon/drgnbon/blob/output/github-snake-dark.svg)
-
 <h1 align="center">
   Hi there, I'm drgnbon 👋
 </h1>
+
+![GitHub Snake](https://github.com/drgnbon/drgnbon/blob/output/github-snake-dark.svg)
 
 <h2 align="left">
   💼 Freelancer | Backend & Frontend Developer
