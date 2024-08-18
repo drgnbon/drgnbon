@@ -16,8 +16,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: drgnbon
-          output: dist/github-contribution-grid-snake.svg
-          
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: dist/github-contribution-grid-snake.svg
+
       - name: Commit Snake animation
         uses: EndBug/add-and-commit@v9
         with:
