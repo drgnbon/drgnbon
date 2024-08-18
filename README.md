@@ -12,12 +12,16 @@ Hi there, I'm drgnbon 👋
 
 <a href="https://discord.com/users/660767046908510218"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/discord.png" alt="drgnbon | Discord" width="40px"/></a>
 
-### 💼 Technical Skills
+## 💼 Technical Skills
 
-<img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/cpp.png" alt="C++" width="40px"/>
-<img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/rust.png" alt="Rust" width="40px"/>
-<img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/csharp.png" alt="C#" width="40px"/>
-<img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/python.png" alt="Python" width="40px"/>
+<a><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/cpp.png" alt="C++" width="40px"/></a>
+<a><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/rust.png" alt="Rust" width="40px"/></a>
+<a><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/csharp.png" alt="C#" width="40px"/></a>
+<a><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/python.png" alt="Python" width="40px"/></a>
+<!-- ![C++](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/cpp.png)
+![Rust](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/rust.png)
+![C#](hhttps://raw.githubusercontent.com/drgnbon/drgnbon/main/src/csharp.png)
+![Python](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/python.png)
 
 <!-- </br>
 
@@ -28,4 +32,4 @@ Hi there, I'm drgnbon 👋
 </br>
 
 ![Git](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/git.png)
-![GitHub](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/github.png) -->
+![GitHub](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/github.png) --> -->
