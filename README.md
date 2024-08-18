@@ -70,3 +70,20 @@
 <p align="left">
   ![Snake animation](https://github.com/drgnbon/drgnbon/blob/output/github-contribution-grid-snake.svg)
 </p>
+<table>
+  <tr>
+    <td>
+      <p align="left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drgnbon&layout=compact&theme=radical" alt="drgnbon's most used languages" />
+      </p>
+      <p align="left">
+        <img src="https://github-readme-stats.vercel.app/api?username=drgnbon&show_icons=true&theme=radical" alt="drgnbon's GitHub stats" />
+      </p>
+    </td>
+    <td>
+      <p align="right">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=drgnbon&theme=radical" alt="drgnbon's GitHub streak" />
+      </p>
+    </td>
+  </tr>
+</table>
