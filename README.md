@@ -74,7 +74,7 @@
   <tr>
     <td>
       <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drgnbon&layout=compact&theme=radical" alt="drgnbon's most used languages" width="350" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drgnbon&layout=compact&theme=radical" alt="drgnbon's most used languages" width="360" />
       </p>
     </td>
     <td>
