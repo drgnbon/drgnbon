@@ -12,12 +12,20 @@ Hi there, I'm drgnbon 👋
 
 <a href="https://discord.com/users/660767046908510218"><img align="left" src="https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/discord.png" alt="drgnbon | Discord" width="40px"/></a>
 
-<!-- - 💬 Contact me from [Telegram](https://t.me/drgnbon)!
+## 💼 Technical Skills
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="sql" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/cpp/cpp_512x512.png"></code>
+![C++](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/cpp.png)
+![Rust](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/rust.png)
+![C#](hhttps://raw.githubusercontent.com/drgnbon/drgnbon/main/src/csharp.png)
+![Python](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/python.png)
 
-<code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" alt="vstudiocode" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"></code>
+</br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=drgnbon" /> -->
+![HTML](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/html.png)
+![CSS](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/css.png)
+![JS](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/js.png)
+
+</br>
+
+![Git](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/git.png)
+![GitHub](https://raw.githubusercontent.com/drgnbon/drgnbon/main/src/github.png)
