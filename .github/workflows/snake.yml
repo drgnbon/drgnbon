@@ -1,12 +1,12 @@
-name: Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Запуск каждые 30 минут
+    - cron: '0 0 * * *' # Запуск каждый день в полночь
   workflow_dispatch: # Позволяет запуск вручную
 
 jobs:
-  update-snake:
+  generate-snake:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -16,13 +16,17 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: drgnbon
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          args: -p dist/github-contribution-grid-snake.svg
-          
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit Snake animation
         uses: EndBug/add-and-commit@v9
         with:
-          add: 'dist/github-contribution-grid-snake.svg'
+          add: 'dist/github-snake.svg,dist/github-snake-dark.svg,dist/github-snake.gif'
           message: 'Update Snake animation'
           author_name: 'GitHub Actions'
           author_email: 'actions@github.com'
